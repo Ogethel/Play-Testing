@@ -1,0 +1,10 @@
+Brandon Jorgensen Answers
+1. it's a tiny bit sluggish to start moving but I know that's just a general thing with
+	Input.GetAxis so thats fine I suppose.
+	
+2. I can't really comment on this since there isn't a lot of gameplay happening yet on the player side
+	Maybe start out with some basic ones like chasing. You seem to have patrolling down so far.
+	
+3. Well, I think a pretty obvious one that I thought of immediately was the dog and the other character (Human?)
+	are completely different sizes so play off that. Dogs love to fetch and the key location is in an area
+	only the dog can reach but the human is the only one that can truly use the key like for opening doors.

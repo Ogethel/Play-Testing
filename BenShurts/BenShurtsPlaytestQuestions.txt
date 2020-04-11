@@ -1,0 +1,13 @@
+Ok so yeah it's not really a fun game yet mostly just a collection of systems that are starting to finally work together. Most notably all my AI broke and I haven't had time to fix it yet.
+so I know it sucks right now... 
+
+controls:
+movement - WASD
+take hat on/off - Q
+sprint - shift
+
+Questions:
+
+1: How does the character controller feel?
+2: what enemy behaviors would make this more difficult or fun.
+3: what should the dog be able to do?
