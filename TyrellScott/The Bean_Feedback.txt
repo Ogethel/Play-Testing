@@ -1,0 +1,26 @@
+INSTRUCTIONS
+Left click on ball moves. 
+Use A and D to rotate position left and Right
+Use Q and E to adjust strength x100 and x50
+Use W and R to reduce strength x100 and x50
+
+Goal is to attack all enemies and collect points
+
+FEEDBACK: 
+1) Did you feel like your ability to control the player was unusable/inadequate?
+A. I absolutely do not feel that your control scheme at the moment is unusable. 
+However, I think that you can go 1 of 2 ways with your controls as they stand right now (There are obivously more but for the moment this is what I could think of).
+Direction 1: Keep the controls scheme mostly the same 
+Minor tweek: Make it so that the location that you last aimed is the direction your bar is facing by default for your next shot
+Minor tweek: I feel like pressing and holding shift so that the power goes up and down in a cycle and you just let go when you like the power is right.
+I just think there are too many buttons to press right now.
+Minor tweek: Make it so I can press and hold W & A to adjust the aiming.  
+I feel like that right now your game feels more stragegic.  Especially since if you get stuck by an enemy you lose because you are frozen and can no longer move.
+However, I suggested the above changes in the hope that if that is the direction you were hopeing to go in, that you can also
+Direction 2: Switch aiming to be mouse guided
+
+2) Did you feel like you were guided through the level as you played and didn't struggle with being lost?
+
+3) Were the enemies enough to keep you on edge while being attacked or it was too easy?
+
+4) Did you enjoy playing or were you struggling to get through it?
