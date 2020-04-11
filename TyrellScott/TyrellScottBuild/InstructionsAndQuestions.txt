@@ -1,0 +1,16 @@
+INSTRUCTIONS
+Left click on ball moves. 
+Use A and D to rotate position left and Right
+Use Q and E to adjust strength x100 and x50
+Use W and R to reduce strength x100 and x50
+
+Goal is to attack all enemies and collect points
+
+FEEDBACK: 
+1) Did you feel like your ability to control the player was unusable/inadequate?
+
+2) Did you feel like you were guided through the level as you played and didn't struggle with being lost?
+
+3) Were the enemies enough to keep you on edge while being attacked or it was too easy?
+
+4) Did you enjoy playing or were you struggling to get through it?
